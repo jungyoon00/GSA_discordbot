@@ -1,0 +1,11 @@
+
+1.번호:10
+2.논문제목:VOC(Voice of Customer) 빅데이터를 활용한 신용카드 사용자 이탈예측 모델
+3.저자:장기만
+4.소속기관:숭실대학교 대학원
+
+5.발표년도:2020
+
+6.논문집/자료집 or 학위:국내석사
+
+7.논문 URL 주소:http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=ce4bb91fc10c9392ffe0bdc3ef48d419&keyword=bigdata
