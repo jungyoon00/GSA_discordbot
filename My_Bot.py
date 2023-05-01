@@ -166,4 +166,4 @@ async def destroy(ctx):
 
 
 
-bot.run("MTA4MzYxODg4NzEwODY2MTMwOA.GFY3Bb.3eyAmZemfYjkpQfFAiqjIl3aLiwU-ZPwTXYYRo")
+bot.run("MTA4MzYxODg4NzEwODY2MTMwOA.GW9VzH.Shb8FLb9VExvOQGAUXfJjyVOa03ROCi3UQKMtE")
